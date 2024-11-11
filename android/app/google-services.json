@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955387147947",
+    "project_id": "examenjovii",
+    "storage_bucket": "examenjovii.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955387147947:android:17bfcb1dccc58aa250e9ee",
+        "android_client_info": {
+          "package_name": "com.example.exajovii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIpnhmIATkMZBcJcD9J5UcEP0PNb5L6Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
